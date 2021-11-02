@@ -9,3 +9,7 @@ function About() {
     </div>
   );
 }
+
+export function About() {
+  
+};

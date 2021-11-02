@@ -9,3 +9,7 @@ function Home() {
     </div>
   );
 }
+
+export function Home() {
+  
+};
